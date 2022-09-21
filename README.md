@@ -1,5 +1,9 @@
 # LIKELION-AT-BERKELEY-FALL2022
 
+## 📑 Assignment
+> [과제 제출 페이지](https://github.com/LikelionAtUCB/LIKELION-AT-BERKELEY-FALL2022/issues)
+1. [Issue](https://github.com/LikelionAtUCB/LIKELION-AT-BERKELEY-FALL2022/issues) 탭을 통해 해당 세션 페이지 클릭하기
+2. 실행 화면과 연결된 레포지토리 주소를 댓글로 작성하기
 
 ## 📚 Sessions
 **1주차 (9/19 - 9/25)**
@@ -61,7 +65,4 @@
     - Final Presentation
 - FALL 2022 공식종료
 
-## 📑 Assignment
-> [과제 제출 페이지](https://github.com/LikelionAtUCB/LIKELION-AT-BERKELEY-FALL2022/issues)
-1. [Issue](https://github.com/LikelionAtUCB/LIKELION-AT-BERKELEY-FALL2022/issues) 탭을 통해 해당 세션 페이지 클릭하기
-2. 실행 화면과 연결된 레포지토리 주소를 댓글로 작성하기
+
